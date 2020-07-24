@@ -1,0 +1,1 @@
+<?php $timestamp = strtotime(str_replace('/', '-', $data));
